@@ -19,3 +19,20 @@ This project Requires me to :
 - Identifying key financial indicators:
      - The ability to recognise which data points are critical for financial assessment is fundamental.
      - This task will enhance my acumen in recognizing significant financial metrics crucial for AI analysis.
+
+
+**important factors for AI integration**
+
+- Data quality assessment:
+     - The success of AI heavily depends on the quality of data it is fed.
+     - Through this task, I'll learn to identify and extract high-quality, relevant financial data, setting a strong foundation for
+       accurate AI modeling.
+- Understanding data structure:
+     - AI models require data in specific formats. This task will help me comprehend the structuring of financial data, which is a
+     is a pivotal step in preparing it for AI integration.
+     -
+
+This task will allow me to develop a deep understanding of financial data analysis and its significance in AI applications. It's about setting the tone and foundation for the rest of the project.
+     -
+     -
+     - pivotal step in preparing it for AI integration.
