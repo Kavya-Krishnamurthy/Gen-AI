@@ -35,4 +35,28 @@ This project Requires me to :
 This task will allow me to develop a deep understanding of financial data analysis and its significance in AI applications. It's about setting the tone and foundation for the rest of the project.
      -
      -
-     - pivotal step in preparing it for AI integration.
+ Project context:
+ -  goal is to extract meaningful insights from 10-K financial reports.
+ -  These insights will feed into the AI chatbot, enabling it to provide in-depth financial performance analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+Our goal is to extract meaningful insights from 10-K financial reports.
+These insights will feed into the AI chatbot, enabling it to provide in-depth financial performance analysis.
