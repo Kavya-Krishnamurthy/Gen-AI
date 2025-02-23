@@ -39,6 +39,25 @@ This task will allow me to develop a deep understanding of financial data analys
  -  goal is to extract meaningful insights from 10-K financial reports.
  -  These insights will feed into the AI chatbot, enabling it to provide in-depth financial performance analysis.
 
+**My role and responsibilities**
+
+Data extraction:
+- Research and review 10-K documents.
+- Focus on key financial figures and ratios.
+
+Basic analysis:
+- Identify significant financial trends and indicators.
+- Assess the financial health and performance of the companies.
+
+Data preparation:
+- Format and clean the data for AI model integration.
+
+Deliverable:
+A comprehensive data analysis report, which should include:
+- My findings
+- a summary providing insights into the financial health of the analyzed companies.
+  
+
 
 
 
