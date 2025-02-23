@@ -1,5 +1,5 @@
 # Gen-AI (on-going project)
-As Junior Data Scientest at BCG - My role focused on applying AI and data analysis skills to develop AI-powered tools, such as a financial chatbot, while learning to translate complex data into strategic business insights collaborating with a senior data scientest at BCG who integrates AI with financial analytics for strategic consulting solutions.
+As Junior Data Scientest at BCG's GenAI Consulting team - My role focused on applying AI and data analysis skills to develop AI-powered tools, such as a financial chatbot, while learning to translate complex data into strategic business insights collaborating with a senior data scientest at BCG who integrates AI with financial analytics for strategic consulting solutions.
 
 Objective:
  - Develop AI-powered chatbot that analyzes financial documents
