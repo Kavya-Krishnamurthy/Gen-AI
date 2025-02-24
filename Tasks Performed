@@ -1,0 +1,5 @@
+Data Extraction:
+- Manually extracted key financial data for the last three fiscal years from the 10-K filings of Microsoft, Tesla, and Apple. 
+- Navigated to the SEC's EDGAR database for each company, found the 10-K filings for the last three fiscal years.
+- Extract the following financial figures manually : Total Revenue, Net Income, Total Assets, Total Liabilities, and Cash Flow from Operating Activities.
+- Organized the Data compiled form extracted data into an Excel spreadsheet for easy reference during my Python analysis.
