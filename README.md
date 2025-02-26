@@ -9,4 +9,3 @@ Objective:
  - Following the data analysis, an AI-powered financial chatbot is to be developed.
  - This chatbot must be capable of analyzing financial data and providing insights that effectively communicate complex financial information in an interactive and user-friendly manner.
  - Throughout the project, my focus will not only be on the technical execution but also on how these AI-driven insights can be leveraged in a consulting context to provide strategic recommendations and solutions to clients.
- - 
