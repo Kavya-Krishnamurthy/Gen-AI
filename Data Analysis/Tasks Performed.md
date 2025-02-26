@@ -14,6 +14,6 @@ Analysis:
 
 Documentation and submission:
 - By using the markdown feature in Jupyter Notebook documented my methodology, observations, and conclusions throughout the notebook.
-- After my analysis is complete, exported my Jupyter Notebook as a PDF file for submission to my manager. 
+- After my analysis is complete, exported my Jupyter Notebook as a html file for submission to my manager. 
 - This approach helped me focus on the core analytical aspects using pandas within a Jupyter Notebook, providing a clear, documented narrative of my financial analysis process. 
-- By the end of this task, I have a comprehensive understanding of how to analyze financial data programmatically, a valuable skill set for data-driven decision-making.
+- By the end of this task, I have a comprehensive understanding of how to analyze financial data programmatically which is a valuable skill set for data-driven decision-making.
