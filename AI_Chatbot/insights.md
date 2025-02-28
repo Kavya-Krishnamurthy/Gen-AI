@@ -35,7 +35,20 @@ PROJECT Brief:
     - It should inform users when it doesn't understand a question and guide them towards queries that it can respond to.
 
 
+**Techniques for integrating financial data with chatbot functionalities**
+- Integrating financial data into our chatbot is about making static data dynamic and interactive.
+- The aim is to transform our previously analyzed financial data into insightful responses that the chatbot can provide when prompted by user queries.
 
+1. Data structuring:
+        - Before integrating, ensure your financial data is structured in a way that allows your chatbot to access and             interpret it easily.
+        - Using formats such as JSON or CSV can be helpful, as you can map data points to specific queries.
+
+2. Retrieval methods:
+        - Implement simple retrieval methods that allow your chatbot to fetch the right piece of data based on the                 user's query.
+        - For instance, if a user asks about a company's net income, your chatbot should know how to find and present that specific data point.
+
+3. Predefined data points:
+        - Since we're focusing on predefined queries, associate each query with specific data points in your data set.           - This direct mapping simplifies the process of fetching and presenting data in response to user inputs.
 
 
 
