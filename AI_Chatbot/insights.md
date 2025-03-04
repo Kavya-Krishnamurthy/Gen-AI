@@ -52,14 +52,14 @@ PROJECT Brief:
 
 
 Communicating complex financial insights
-The ultimate goal of your chatbot is to communicate complex financial insights in a way that's accessible and engaging. This involves presenting data in a manner that's informative and easy to understand.
+- The ultimate goal of your chatbot is to communicate complex financial insights in a way that's accessible and engaging. This involves presenting data in a manner that's informative and easy to understand.
 
-Simplification and summarization: Work on simplifying and summarizing financial insights. Use clear, jargon-free language to explain financial concepts or data points. Remember, the user might not have a financial background.
+- Simplification and summarization: Work on simplifying and summarizing financial insights. Use clear, jargon-free language to explain financial concepts or data points. Remember, the user might not have a financial background.
 
-Interactive dialogue design: Design your chatbot's dialogue to be interactive. Encourage users to explore different queries by suggesting related topics or asking follow-up questions. This can improve user engagement and make the interaction more informative.
+- Interactive dialogue design: Design your chatbot's dialogue to be interactive. Encourage users to explore different queries by suggesting related topics or asking follow-up questions. This can improve user engagement and make the interaction more informative.
 
-Visual aids: While our focus is on text-based interaction, consider describing how data visualization aids such as charts or graphs could be referenced or described by the chatbot to aid in understanding complex data.
+- Visual aids: While our focus is on text-based interaction, consider describing how data visualization aids such as charts or graphs could be referenced or described by the chatbot to aid in understanding complex data.
 
-By understanding these principles and techniques, you're well on your way to creating a chatbot that communicates in an engaging and user-friendly manner and serves as a bridge between users and financial data. Remember, the key to a successful chatbot is its ability to communicate its findings to enhance user understanding and decision-making.
+- By understanding these principles and techniques, you're well on your way to creating a chatbot that communicates in an engaging and user-friendly manner and serves as a bridge between users and financial data. Remember, the key to a successful chatbot is its ability to communicate its findings to enhance user understanding and decision-making.
 
 
